@@ -1,7 +1,7 @@
 # apple-service-mobile-app-
 Wykonanie minimalnego projektu aplikacji mobilnej odpowiadającej za serwisowanie i sprzedawanie produktów Apple - Adobe XD
 <br>
-Projekt wykonano na przedmiot Inżynieria Oprogramowania 
+Projekt wykonano na przedmiot Inżynieria Oprogramowania (semestr 4)
 
 Strona Główna:
 <br>
